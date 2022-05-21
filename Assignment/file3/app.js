@@ -1,0 +1,68 @@
+var age = 14;
+alert("I am "+age+" Years Old.");
+var visited = 21;
+alert("You Have Visited This Website "+visited+" Times.");
+var birthYear = 2002;
+
+document.write("My Birth Year Is "+birthYear+".");
+document.write("<br>");
+var  VisitorName = "Yahya";
+var  ProductTitle = " T-shirt(s)";
+var  quantity = 5;
+document.write(VisitorName+" Ordered "+quantity+ProductTitle+" On XYZ Clothing Store.");
+var abc,bad,xyz;
+var xyz1;
+var good2;
+var bad3;
+var player4;
+var seatNumber;
+//var 1seatNumber;
+//var %seatNumber;
+//var ^seatNumber;
+//var 3seatNumber;
+document.write("<br/>");
+var value;
+document.write("Value after variable declaration is undefined.");
+value = 3;
+document.write(value);
+document.write("<br/>");
+document.write("Value After Increment Is: "+ ++value);
+document.write("<br/>");
+value = value +7;
+document.write("Value After Addition Is: "+ value);
+document.write("<br/>");
+document.write("Value After Decrement Is: "+ --value);
+document.write("<br/>");
+value = value%3;
+document.write("The Remainder Is: "+ value);
+var ticketPrice = 600;
+document.write("<br/>");
+document.write("The cost to buy 5 tickets is "+ticketPrice*5+" Price.");
+var number = 4;
+document.write("<br/>");
+document.write("4 X 1 = "+number*1);
+document.write("<br/>");
+document.write("4 X 2 = "+number*2);
+document.write("<br/>");
+document.write("4 X 3 = "+number*3);
+document.write("<br/>");
+document.write("4 X 4 = "+number*4);
+document.write("<br/>");
+document.write("4 X 5 = "+number*5);
+document.write("<br/>");
+document.write("4 X 6 = "+number*6);
+document.write("<br/>");
+document.write("4 X 7 = "+number*7);
+document.write("<br/>");
+document.write("4 X 8 = "+number*8);
+document.write("<br/>");
+document.write("4 X 9 = "+number*9);
+document.write("<br/>");
+document.write("4 X 10 = "+number*10);
+var celsius = 40;
+var celsiusIntoFahrenheit = (celsius*1.8)+32;
+document.write("<br/>")
+document.write("The conversion of 40° into Fahrenheit is:"+celsiusIntoFahrenheit);
+
+
+
